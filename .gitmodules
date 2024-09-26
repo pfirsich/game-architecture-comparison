@@ -1,0 +1,6 @@
+[submodule "shared/cppasta"]
+	path = deps/cppasta
+	url = https://github.com/pfirsich/cppasta
+[submodule "shared/glwrap"]
+	path = deps/glwrap
+	url = https://github.com/pfirsich/glwrap

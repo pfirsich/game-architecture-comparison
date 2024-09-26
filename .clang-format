@@ -1,0 +1,6 @@
+BasedOnStyle: WebKit # [LLVM, Google, Chromium, Mozilla, WebKit, Microsoft]
+ColumnLimit: 100
+Standard: c++20
+AllowShortFunctionsOnASingleLine: Inline
+AlwaysBreakTemplateDeclarations: true
+PackConstructorInitializers: CurrentLine
